@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    background-color: beige;
+    height: 100vh;
+}
+
+.back{
+    position: absolute;
+    top: 80%;
+    left: 90%;
+    font-size: 60px;
+    color: purple;
+    cursor: pointer;
+}
+
+.article__detail{
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+}
